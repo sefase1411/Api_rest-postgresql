@@ -1,0 +1,1 @@
+Estos son los controladores para manejar las operaciones de creación, lectura, actualización y eliminación (CRUD) para tarjetas (cards) y columnas (columns), así como los controladores para registrar e iniciar sesión de los usuarios
